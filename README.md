@@ -11,9 +11,9 @@ Features:
 
 ## [Try it!](https://winxp.now.sh)
 
-Windows XP 👉 https://winxp.now.sh
+Windows XP 👉 https://win-xp-web.vercel.app/
 
-[![](demo/demo.gif)](https://winxp.now.sh)
+[![](demo/demo.gif)](https://win-xp-web.vercel.app/)
 
 ## Contributing
 
